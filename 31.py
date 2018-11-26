@@ -1,3 +1,3 @@
-string = raw_input()
-string = string.replace(' ', '')
-print (len(string))
+str = raw_input()
+str = str.replace(' ', '')
+print (len(str))

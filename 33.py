@@ -1,3 +1,3 @@
-string = raw_input()
-space = string.count(' ')
-print(space)
+str = raw_input()
+s = str.count(' ')
+print(s)

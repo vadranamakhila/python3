@@ -1,4 +1,4 @@
-import re 
+import we 
 s=raw_input() 
-n=re.sub('[\a]+','',s) 
+n=we.sub('[\a]+','',s) 
 print(len(n)) 

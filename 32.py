@@ -1,3 +1,3 @@
-string = raw_input()
-words = len(string.split(' '))
+str = raw_input()
+words = len(str.split(' '))
 print (words)

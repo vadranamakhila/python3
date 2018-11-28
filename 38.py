@@ -1,5 +1,5 @@
-P,q=map(int,raw_input().split())
-P = p ^ q
-q = p ^ q
-P = p ^ q
-print p,q
+m,n=map(int,raw_input().split())
+m = m ^ n
+n = m ^ n
+m = m ^ n
+print m,n

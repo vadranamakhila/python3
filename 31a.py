@@ -1,2 +1,2 @@
-a=str(raw_input())
-print len(a)-a.count(' ')
+b=str(raw_input())
+print len(b)-b.count(' ')
